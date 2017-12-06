@@ -12,8 +12,36 @@
 	</classpathentry>
 	<classpathentry kind="src" path="src/main/groovy"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
-	<classpathentry kind="con" path="org.eclipse.buildship.core.gradleclasspathcontainer"/>
 	<classpathentry kind="con" path="GROOVY_SUPPORT"/>
 	<classpathentry exported="true" kind="con" path="GROOVY_DSL_SUPPORT"/>
+	<classpathentry kind="lib" path="lib_pgx/pgx-api-2.5.0.jar"/>
+	<classpathentry kind="lib" path="lib_pgx/pgx-client-2.5.0.jar"/>
+	<classpathentry kind="lib" path="lib_pgx/pgx-common-2.5.0.jar"/>
+	<classpathentry kind="lib" path="lib_pgx/pgx-shell-2.5.0.jar"/>
+	<classpathentry kind="lib" path="lib_pgx/pgx-spark_common-2.5.0.jar"/>
+	<classpathentry kind="lib" path="lib_pgx/pgx-spark1-2.5.0.jar"/>
+	<classpathentry kind="lib" path="lib_pgx/pgx-spark2-2.5.0.jar"/>
+	<classpathentry kind="lib" path="lib_pgx/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="lib_pgx/argparse4j-0.7.0.jar"/>
+	<classpathentry kind="lib" path="lib_pgx/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="lib_pgx/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="lib_pgx/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="lib_pgx/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lib_pgx/commons-vfs2-2.1.jar"/>
+	<classpathentry kind="lib" path="lib_pgx/fastutil-7.0.12.jar"/>
+	<classpathentry kind="lib" path="lib_pgx/fluent-hc-4.4.jar"/>
+	<classpathentry kind="lib" path="lib_pgx/graph-query-ir-2017-06-26.jar"/>
+	<classpathentry kind="lib" path="lib_pgx/guava-14.0.1.jar"/>
+	<classpathentry kind="lib" path="lib_pgx/guice-4.1.0.jar"/>
+	<classpathentry kind="lib" path="lib_pgx/guice-multibindings-4.1.0.jar"/>
+	<classpathentry kind="lib" path="lib_pgx/httpclient-4.3.6.jar"/>
+	<classpathentry kind="lib" path="lib_pgx/httpcore-4.3.3.jar"/>
+	<classpathentry kind="lib" path="lib_pgx/jackson-core-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="lib_pgx/jackson-mapper-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="lib_pgx/jansi-1.15.jar"/>
+	<classpathentry kind="lib" path="lib_pgx/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="lib_pgx/jline-2.14.3.jar"/>
+	<classpathentry kind="lib" path="lib_pgx/log4j-1.2.17.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="output" path="classes"/>
 </classpath>
